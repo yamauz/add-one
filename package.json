@@ -1,6 +1,6 @@
 {
   "name": "@yamauz/add-one",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "add one!!",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
