@@ -1,6 +1,6 @@
 # Add-One!
 
-My first library.
+My first library!
 
 ```ts
 import { add } from "@yamauz/add-one";
