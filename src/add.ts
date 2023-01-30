@@ -1,4 +1,4 @@
 export type X = number;
 export const add = (x: X) => {
-  return x + 10;
+  return x + 1;
 };
